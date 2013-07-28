@@ -31,7 +31,6 @@ on boot
 
 # phone
     setprop ro.telephony.call_ring.multiple 0
-    setprop ro.radio.noril yes
 
 on fs
     mount_all fstab.venturi
